@@ -13,7 +13,8 @@
     "nodemon": "^2.0.13"
   },
   "nodemonConfig": {
-    "stdin": false
+    "stdin": false,
+    "stdout": false
   },
   "devDependencies": {
     "@types/node": "^16.10.2",
