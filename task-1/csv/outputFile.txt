@@ -1,4 +1,0 @@
-{"title":"Maksim11","description":"Project7","price":"12"}
-{"title":"Sergey","description":"Project8","price":"13"}
-{"title":"Maksim44","description":"Project7","price":"12"}
-{"title":"Sergey33","description":"Project2","price":"13"}

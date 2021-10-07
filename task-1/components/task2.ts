@@ -1,5 +1,5 @@
 import { createReadStream, createWriteStream } from 'fs';
-import { csvToTxt, errorHandler, getPaths } from '@services/reverseString';
+import { csvToTxt, errorHandler, getPaths } from '@services/services';
 
 const { inputPath, outputPath } = getPaths(process.argv);
 

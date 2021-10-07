@@ -1,6 +1,6 @@
 import { stdin, stdout } from 'process';
 import { createInterface } from 'readline';
-import { reverseString } from '@services/reverseString';
+import { reverseString } from '@services/services';
 
 const rl = createInterface({
   input: stdin,

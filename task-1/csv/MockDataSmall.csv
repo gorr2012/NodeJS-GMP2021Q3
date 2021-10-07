@@ -1,5 +1,6 @@
-﻿title;description;price;count
-Maksim11;Project7;12;21
-Sergey;Project8;13;22
-Maksim44;Project7;12;21
-Sergey33;Project2;13;22
+﻿Book;Author;Amount;Price
+The Compound Effect;Darren Hardy;5;9,48
+The 7 Habits of Highly Effective People;Stephen R. Covey;4;23,48
+The Miracle Morning;Hal Elrod;10;21,34
+Influence: The Psychology of Persuasion;Robert B. Cialdini;4;12,99
+The ONE Thing;Gary Keller;1;11,18
