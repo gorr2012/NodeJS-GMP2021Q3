@@ -1,7 +1,8 @@
 import csv from 'csvtojson';
 import path from 'path';
 
-const reverseString = ([...str]: string[]) => str.reduceRight((acc, cur) => acc + cur, '');
+const reverseString = (str: string) =>
+  ([...str] as string[]).reduceRight((acc, cur) => acc + cur, '');
 
 const csvToTxt = (inputPath: string) =>
   csv({
