@@ -5,9 +5,9 @@ export const getAllUsersNotDeleted = async () => memory.filter((user) => !user.i
 
 export const findUser = async (id: string) => memory.find((user) => user.id === id);
 
-export const createUser = async (user: User) => memory.push(user);
+export const add = async (user: User) => memory.push(user);
 
-export const updateUser = async (userToSave: User) => {
+export const update = async (userToSave: User) => {
   const userIdToUpdate = memory.findIndex((user) => user.id === userToSave.id);
   const userToUpdete = memory[userIdToUpdate];
   memory[memory.findIndex((user) => user.id === userToSave.id)] = {
@@ -16,7 +16,7 @@ export const updateUser = async (userToSave: User) => {
   };
 };
 
-export const deleteUser = async (id: string) => {
+export const findAndDelete = async (id: string) => {
   const userId = memory.findIndex((user) => user.id === id);
   memory[userId].isDeleted = true;
 };
