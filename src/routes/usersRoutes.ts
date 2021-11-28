@@ -1,7 +1,7 @@
 import { Router } from 'express';
 import { userSchema } from '../validate/validate';
 import { createValidator } from 'express-joi-validation';
-import { createUser, getAllUsers, getUserById, updateUser, deleteUser } from '../controllers';
+import { createUser, getAllUsers, getUserById, updateUser, deleteUser } from '../routers/UserControllers';
 
 export const usersRoutes = Router();
 const validator = createValidator();

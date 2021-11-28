@@ -1,4 +1,4 @@
-import { getAllUsersNotDeleted, getAutoSuggestUsers } from '../services/usersServices';
+import { getAllUsersNotDeleted, getAutoSuggestUsers } from '../../services/usersServices';
 import { Response, Request } from 'express';
 
 const getAllUsers = async (req: Request, res: Response) => {
@@ -8,4 +8,5 @@ const getAllUsers = async (req: Request, res: Response) => {
     : await getAllUsersNotDeleted();
   res.status(200).send(allUsers);
 };
+
 export default getAllUsers;

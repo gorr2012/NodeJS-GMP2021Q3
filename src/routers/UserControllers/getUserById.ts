@@ -1,4 +1,4 @@
-import { findUser } from '../services/usersServices';
+import { findUser } from '../../services/usersServices';
 import { Response, Request } from 'express';
 
 const getUserById = async (req: Request, res: Response) => {
