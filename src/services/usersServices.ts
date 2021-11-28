@@ -1,25 +1,26 @@
-import { User } from '../types/types';
-import { memory } from './memory';
+import { User } from '../data-access/database_access';
+import { IUser } from '../types/types';
 
-export const getAllUsersNotDeleted = async () => memory.filter((user) => !user.isDeleted);
+export const getAllUsersNotDeleted = async () =>
+  await User.findAll({
+    where: {
+      isDeleted: false,
+    },
+  });
 
-export const findUser = async (id: string) => memory.find((user) => user.id === id);
+export const findUser = async (id: string) => await User.findByPk(id);
 
-export const add = async (user: User) => memory.push(user);
+export const add = async (user: IUser) => await User.create(user);
 
-export const update = async (userToSave: User) => {
-  const userIdToUpdate = memory.findIndex((user) => user.id === userToSave.id);
-  const userToUpdete = memory[userIdToUpdate];
-  memory[userIdToUpdate] = {
-    ...userToUpdete,
-    ...userToSave,
-  };
-};
+export const update = async (id: string, dataToSave: Partial<Omit<IUser, 'id'>>) =>
+  await User.update(dataToSave, {
+    where: {
+      id,
+      isDeleted: false,
+    },
+  });
 
-export const findAndDelete = async (id: string) => {
-  const userId = memory.findIndex((user) => user.id === id);
-  return userId !== -1 ? (memory[userId].isDeleted = true) : false;
-};
+export const findAndDelete = async (id: string) => await update(id, { isDeleted: true });
 
 export const getAutoSuggestUsers = async (loginSubstring: string, limit?: number) => {
   const loginLowerCase = loginSubstring.toLowerCase();
