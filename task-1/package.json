@@ -1,0 +1,26 @@
+{
+  "name": "task-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "task1": "nodemon components/task1.ts",
+    "task2": "nodemon components/task2.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.13"
+  },
+  "nodemonConfig": {
+    "stdin": false,
+    "stdout": false
+  },
+  "devDependencies": {
+    "@types/node": "^16.10.2",
+    "@types/nodemon": "^1.19.1",
+    "csvtojson": "^2.0.10",
+    "tsconfig-paths": "^3.11.0"
+  }
+}
