@@ -10,3 +10,9 @@ export const userSchema = Joi.object({
     .required(),
   age: Joi.number().integer().min(4).max(130).required(),
 });
+
+export const groupSchema = Joi.object({
+  id: Joi.string(),
+  name: Joi.string().required(),
+  permissions: Joi.array().items(Joi.string().min(1)),
+});
