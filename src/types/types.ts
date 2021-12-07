@@ -18,6 +18,7 @@ export interface IGroup {
 
 export interface IUserInstance extends Model, IUser {}
 export interface IGroupInstance extends Model, IGroup {}
+export type IUserGroupInstance = Model;
 
 export interface IUserSchema extends ValidatedRequestSchema {
   [ContainerTypes.Body]: {
