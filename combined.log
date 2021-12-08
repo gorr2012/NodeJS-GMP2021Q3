@@ -1,0 +1,23 @@
+{"level":"info","message":"Server started and running on http://localhost:3000"}
+{"level":"info","message":"Server started and running on http://localhost:3000"}
+info: Dec-07-2021 23:24:36: 	Server started and running on http://localhost:3000
+info: Dec-07-2021 23:30:47: 	Server started and running on http://localhost:3000
+info: Dec-07-2021 23:33:29: 	Server started and running on http://localhost:3000
+info: Dec-07-2021 23:34:08: 	Server started and running on http://localhost:3000
+info: Dec-07-2021 23:35:57: 	Server started and running on http://localhost:3000
+info: Dec-07-2021 23:35:59: 	Response status function status(code) {
+  this.statusCode = code;
+  return this;
+}
+info: Dec-08-2021 14:51:40: 	Server started and running on http://localhost:3000
+info: Dec-08-2021 14:57:38: 	Response status function status(code) {
+  this.statusCode = code;
+  return this;
+}
+info: Dec-08-2021 14:57:46: 	Response status function status(code) {
+  this.statusCode = code;
+  return this;
+}
+info: Dec-08-2021 14:58:20: 	Server started and running on http://localhost:3000
+info: Dec-08-2021 14:58:22: 	Response status 200
+info: Dec-08-2021 14:58:22: 	Response status 200
