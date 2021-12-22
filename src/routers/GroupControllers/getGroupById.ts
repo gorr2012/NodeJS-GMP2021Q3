@@ -1,10 +1,15 @@
 import { find } from '../../services/groupsServices';
-import { Response, Request } from 'express';
+import { Response, Request, NextFunction } from 'express';
+import { GroupNotFoundError } from '../../errors/errors';
 
-const getGroupById = async (req: Request, res: Response) => {
+const getGroupById = async (req: Request, res: Response, next: NextFunction) => {
   const { groupId } = req.params;
-  const group = await find(groupId);
-  res.status(200).json(group);
+  try {
+    const group = await find(groupId);
+    return res.status(200).json(group);
+  } catch (error) {
+    next(new GroupNotFoundError(groupId));
+  }
 };
 
 export default getGroupById;

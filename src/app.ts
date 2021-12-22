@@ -1,31 +1,27 @@
-import express, { json, Response, Request } from 'express';
-import { createLogger, format, transports } from 'winston';
+import express, { json } from 'express';
 import cors from 'cors';
 import { PORT } from './config';
 import routes from './routes/routes';
-import { NextFunction } from 'express-serve-static-core';
+import reqLog from './middleware/reqLog';
+import { errorHandler } from './errors/errorHandler';
+import { logger } from './logger/logger';
 
 const app = express();
-export const logger = createLogger({
-  transports: [
-    new transports.Console(),
-    new transports.File({
-      filename: 'combined.log',
-      format: format.combine(
-        format.timestamp({ format: 'MMM-DD-YYYY HH:mm:ss' }),
-        format.align(),
-        format.printf((info) => `${info.level}: ${[info.timestamp]}: ${info.message}`)
-      ),
-    }),
-  ],
-});
 
 app.use(cors());
 app.use(json());
+app.use(reqLog);
 app.use(routes);
-app.use((req: Request, res: Response, next: NextFunction) => {
-  logger.info(`Response status ${res.statusCode}`);
-});
+app.use(errorHandler);
+
+process
+  .on('unhandledRejection', (reason, promise) => {
+    logger.error(`${reason} Unhandled Rejection at Promise ${promise}`);
+  })
+  .on('uncaughtException', (err) => {
+    logger.error(`${err} Uncaught Exception thrown`);
+    process.exit(1);
+  });
 
 app.listen(PORT, () => {
   console.log('Server started...');
