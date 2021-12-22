@@ -1,23 +1,153 @@
-{"level":"info","message":"Server started and running on http://localhost:3000"}
-{"level":"info","message":"Server started and running on http://localhost:3000"}
-info: Dec-07-2021 23:24:36: 	Server started and running on http://localhost:3000
-info: Dec-07-2021 23:30:47: 	Server started and running on http://localhost:3000
-info: Dec-07-2021 23:33:29: 	Server started and running on http://localhost:3000
-info: Dec-07-2021 23:34:08: 	Server started and running on http://localhost:3000
-info: Dec-07-2021 23:35:57: 	Server started and running on http://localhost:3000
-info: Dec-07-2021 23:35:59: 	Response status function status(code) {
-  this.statusCode = code;
-  return this;
-}
-info: Dec-08-2021 14:51:40: 	Server started and running on http://localhost:3000
-info: Dec-08-2021 14:57:38: 	Response status function status(code) {
-  this.statusCode = code;
-  return this;
-}
-info: Dec-08-2021 14:57:46: 	Response status function status(code) {
-  this.statusCode = code;
-  return this;
-}
-info: Dec-08-2021 14:58:20: 	Server started and running on http://localhost:3000
-info: Dec-08-2021 14:58:22: 	Response status 200
-info: Dec-08-2021 14:58:22: 	Response status 200
+info: Dec-19-2021 20:11:28: 	Server started and running on http://localhost:3000
+info: Dec-19-2021 20:13:24: 	Server started and running on http://localhost:3000
+info: Dec-19-2021 20:18:16: 	Server started and running on http://localhost:3000
+info: Dec-19-2021 20:22:59: 	Server started and running on http://localhost:3000
+info: Dec-19-2021 20:23:33: 	Server started and running on http://localhost:3000
+info: Dec-19-2021 20:23:55: 	Server started and running on http://localhost:3000
+info: Dec-19-2021 20:24:01: 	Method: GET 
+ Arguments: "{\"params\":{},\"query\":{},\"body\":{}}"
+info: Dec-19-2021 20:24:15: 	Method: GET 
+ Arguments: "{\"params\":{},\"query\":{},\"body\":{}}"
+info: Dec-19-2021 20:26:12: 	Method: GET 
+ Arguments: "{\"params\":{},\"query\":{\"loginSubstring\":\"e\",\"limit\":\"2\"},\"body\":{}}"
+info: Dec-19-2021 20:26:39: 	Method: GET 
+ Arguments: "{\"params\":{},\"query\":{},\"body\":{}}"
+info: Dec-19-2021 20:26:59: 	Server started and running on http://localhost:3000
+info: Dec-19-2021 20:27:22: 	Server started and running on http://localhost:3000
+info: Dec-20-2021 09:32:54: 	Server started and running on http://localhost:3000
+info: Dec-20-2021 10:00:09: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-20-2021 10:00:11: 	Method: GET 
+ Arguments: {} 
+ Error: User with id b16dd8e1-1728-4ea9-90fd-f36a0af861 not found
+info: Dec-20-2021 10:01:19: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-20-2021 10:01:30: 	Server started and running on http://localhost:3000
+info: Dec-20-2021 10:01:31: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-20-2021 10:01:31: 	Method: GET 
+ Arguments: {} 
+ Error: Group with id Cannot find users with such params undefined and undefined not found
+info: Dec-20-2021 10:05:05: 	Server started and running on http://localhost:3000
+info: Dec-20-2021 10:05:21: 	Server started and running on http://localhost:3000
+info: Dec-20-2021 10:05:34: 	Server started and running on http://localhost:3000
+info: Dec-20-2021 10:05:40: 	Server started and running on http://localhost:3000
+info: Dec-20-2021 10:05:52: 	Server started and running on http://localhost:3000
+info: Dec-20-2021 10:05:56: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-20-2021 10:05:57: 	Method: GET 
+ Arguments: {} 
+ Error: User with id getAllUsers not found
+info: Dec-20-2021 10:05:58: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-20-2021 10:05:59: 	Method: GET 
+ Arguments: {} 
+ Error: User with id getAllUsers not found
+info: Dec-22-2021 09:57:58: 	Server started and running on http://localhost:3000
+info: Dec-22-2021 09:58:01: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-22-2021 09:58:02: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-22-2021 09:58:12: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-22-2021 09:58:13: 	Method: GET 
+ Arguments: {} 
+ Error: 
+info: Dec-22-2021 09:58:37: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-22-2021 09:58:37: 	Method: GET 
+ Arguments: {} 
+ Error: Group with id SequelizeConnectionError: password authentication failed for user "limctcir" not found
+info: Dec-22-2021 09:59:31: 	Server started and running on http://localhost:3000
+info: Dec-22-2021 09:59:41: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-22-2021 09:59:42: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-22-2021 09:59:50: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-22-2021 10:00:01: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-22-2021 10:00:05: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-22-2021 10:00:31: 	Method: DELETE 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-22-2021 10:00:42: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-22-2021 10:01:49: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-22-2021 10:02:10: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-22-2021 10:02:15: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-22-2021 10:02:18: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-22-2021 10:08:14: 	Server started and running on http://localhost:3000
+info: Dec-22-2021 10:08:25: 	Server started and running on http://localhost:3000
+info: Dec-22-2021 10:08:44: 	Server started and running on http://localhost:3000
+info: Dec-22-2021 10:08:49: 	Server started and running on http://localhost:3000
+info: Dec-22-2021 10:08:52: 	Server started and running on http://localhost:3000
+info: Dec-22-2021 10:08:57: 	Server started and running on http://localhost:3000
+info: Dec-22-2021 10:09:07: 	Server started and running on http://localhost:3000
+info: Dec-22-2021 10:09:21: 	Server started and running on http://localhost:3000
+info: Dec-22-2021 10:09:33: 	Server started and running on http://localhost:3000
+info: Dec-22-2021 11:57:21: 	Server started and running on http://localhost:3000
+info: Dec-22-2021 11:57:45: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-22-2021 11:57:45: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-22-2021 12:00:20: 	Server started and running on http://localhost:3000
+info: Dec-22-2021 12:00:40: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-22-2021 12:00:42: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-22-2021 12:00:48: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-22-2021 12:00:58: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-22-2021 12:00:59: 	Method: GET 
+ Arguments: {} 
+ Error: User with id dsdsd not found 
+ Stack: UserNotFoundError: User with id dsdsd not found
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/routers/UserControllers/getUserById.ts:11:10
+    at Generator.throw (<anonymous>)
+    at rejected (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/routers/UserControllers/getUserById.ts:6:65)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+info: Dec-22-2021 12:01:14: 	Method: DELETE 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-22-2021 12:01:15: 	Method: DELETE 
+ Arguments: {} 
+ Error: User with id b16dd8e1-1728-4ea9-90fd-f36a0afb1 not found 
+ Stack: UserNotFoundError: User with id b16dd8e1-1728-4ea9-90fd-f36a0afb1 not found
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/routers/UserControllers/deleteUser.ts:10:10
+    at Generator.throw (<anonymous>)
+    at rejected (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/routers/UserControllers/deleteUser.ts:6:65)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+info: Dec-22-2021 12:01:58: 	Method: POST 
+ Arguments: "{\"query\":{},\"body\":{\"age\":11,\"login\":\"Best TheBest\",\"password\":\"dfdfd1g\"}}"
+info: Dec-22-2021 12:02:02: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-22-2021 12:02:30: 	Method: POST 
+ Arguments: {} 
+ Error: Unexpected token o in JSON at position 1 
+ Stack: SyntaxError: Unexpected token o in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at parse (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/body-parser/lib/types/json.js:89:19)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/body-parser/lib/read.js:121:18
+    at invokeCallback (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/raw-body/index.js:224:16)
+    at done (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:412:35)
+    at IncomingMessage.emit (domain.js:470:12)
+    at endReadableNT (internal/streams/readable.js:1317:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)
+info: Dec-22-2021 12:02:55: 	Server started and running on http://localhost:3000
+info: Dec-22-2021 12:03:46: 	Server started and running on http://localhost:3000
+info: Dec-22-2021 12:04:40: 	Server started and running on http://localhost:3000
+info: Dec-22-2021 12:05:24: 	Server started and running on http://localhost:3000
+info: Dec-22-2021 12:05:29: 	Server started and running on http://localhost:3000
+info: Dec-22-2021 12:05:54: 	Server started and running on http://localhost:3000
+info: Dec-22-2021 12:06:02: 	Server started and running on http://localhost:3000
+info: Dec-22-2021 12:06:12: 	Server started and running on http://localhost:3000
+info: Dec-22-2021 12:06:26: 	Server started and running on http://localhost:3000
+info: Dec-22-2021 12:06:49: 	Server started and running on http://localhost:3000
+info: Dec-22-2021 12:09:59: 	Server started and running on http://localhost:3000

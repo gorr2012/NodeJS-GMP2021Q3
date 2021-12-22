@@ -1,10 +1,15 @@
 import { update } from '../../services/usersServices';
-import { Response, Request } from 'express';
+import { Response, Request, NextFunction } from 'express';
+import { UserNotFoundError } from '../../errors/errors';
 
-const updateUser = async (req: Request, res: Response) => {
+const updateUser = async (req: Request, res: Response, next: NextFunction) => {
   const { body } = req;
-  const userToSave = await update(body.id, body);
-  res.status(200).send(userToSave);
+  try {
+    const userToSave = await update(body.id, body);
+    return res.status(200).send(userToSave);
+  } catch (error) {
+    next(new UserNotFoundError(body.id));
+  }
 };
 
 export default updateUser;

@@ -8,7 +8,13 @@ export const getAllUsersNotDeleted = async () =>
     },
   });
 
-export const findUser = async (id: string) => await User.findByPk(id);
+export const findUser = async (id: string) => {
+  const user = await User.findByPk(id);
+  if (!user) {
+    throw new Error();
+  }
+  return user;
+};
 
 export const add = async (user: IUser) => await User.create(user);
 
