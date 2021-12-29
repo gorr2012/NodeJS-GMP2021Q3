@@ -5,12 +5,14 @@ import routes from './routes/routes';
 import reqLog from './middleware/reqLog';
 import { errorHandler } from './errors/errorHandler';
 import { logger } from './logger/logger';
+import auth from './middleware/auth';
 
 const app = express();
 
 app.use(cors());
 app.use(json());
 app.use(reqLog);
+app.use(auth);
 app.use(routes);
 app.use(errorHandler);
 

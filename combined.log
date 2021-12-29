@@ -151,3 +151,1272 @@ info: Dec-22-2021 12:06:12: 	Server started and running on http://localhost:3000
 info: Dec-22-2021 12:06:26: 	Server started and running on http://localhost:3000
 info: Dec-22-2021 12:06:49: 	Server started and running on http://localhost:3000
 info: Dec-22-2021 12:09:59: 	Server started and running on http://localhost:3000
+info: Dec-27-2021 22:08:47: 	Server started and running on http://localhost:3000
+info: Dec-27-2021 22:08:55: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:06:41: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:07:33: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:07:54: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:07:59: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:08:11: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:08:48: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:09:00: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:09:52: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:10:08: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:10:30: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:11:03: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 11:11:03: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 11:11:03: 	Method: undefined 
+ Arguments: undefined 
+ Error: undefined 
+ Stack: undefined
+info: Dec-28-2021 11:11:11: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 11:11:11: 	Method: undefined 
+ Arguments: undefined 
+ Error: undefined 
+ Stack: undefined
+info: Dec-28-2021 11:12:42: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 11:12:43: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 11:12:43: 	Method: undefined 
+ Arguments: undefined 
+ Error: undefined 
+ Stack: undefined
+info: Dec-28-2021 11:13:36: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:13:58: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:15:00: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:15:32: 	Method: POST 
+ Arguments: "{\"query\":{},\"body\":{\"login\":\"Best TheBest\",\"password\":\"dfdfd1g\"}}"
+info: Dec-28-2021 11:16:06: 	Method: POST 
+ Arguments: "{\"query\":{},\"body\":{\"login\":\"Best TheBest\",\"password\":\"dfdfd1g\"}}"
+info: Dec-28-2021 11:23:32: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:25:03: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:25:10: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:25:28: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:25:30: 	Method: POST 
+ Arguments: "{\"query\":{},\"body\":{\"login\":\"Best TheBest\",\"password\":\"dfdfd1g\"}}"
+info: Dec-28-2021 11:26:16: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:26:18: 	Method: POST 
+ Arguments: "{\"query\":{},\"body\":{\"login\":\"Best TheBest\",\"password\":\"dfdfd1g\"}}"
+info: Dec-28-2021 11:26:28: 	Method: POST 
+ Arguments: "{\"query\":{},\"body\":{\"login\":\"Best TheBest\",\"password\":\"dfdfd1g + bad\"}}"
+error: Dec-28-2021 11:26:28: 	Error: Unauthorized! Bad login/password combination! Unhandled Rejection at Promise [object Promise]
+info: Dec-28-2021 11:27:38: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:27:41: 	Method: POST 
+ Arguments: "{\"query\":{},\"body\":{\"login\":\"Best TheBest\",\"password\":\"dfdfd1g + bad\"}}"
+error: Dec-28-2021 11:27:43: 	Error: Unauthorized! Bad login/password combination! Unhandled Rejection at Promise [object Promise]
+info: Dec-28-2021 11:28:57: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:29:04: 	Method: POST 
+ Arguments: "{\"query\":{},\"body\":{\"login\":\"Best TheBest\",\"password\":\"dfdfd1g + bad\"}}"
+error: Dec-28-2021 11:29:05: 	Error: Unauthorized! Bad login/password combination! Unhandled Rejection at Promise [object Promise]
+info: Dec-28-2021 11:30:40: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:32:04: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:32:25: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:32:25: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 11:32:26: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 11:32:26: 	Method: undefined 
+ Arguments: undefined 
+ Error: undefined 
+ Stack: undefined
+info: Dec-28-2021 11:32:31: 	Method: POST 
+ Arguments: "{\"query\":{},\"body\":{\"login\":\"Best TheBest\",\"password\":\"dfdfd1g + bad\"}}"
+error: Dec-28-2021 11:32:31: 	Error: Unauthorized! Bad login/password combination! Unhandled Rejection at Promise [object Promise]
+info: Dec-28-2021 11:33:53: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:34:01: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:34:02: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 11:34:03: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 11:34:03: 	Method: undefined 
+ Arguments: undefined 
+ Error: undefined 
+ Stack: undefined
+info: Dec-28-2021 11:34:07: 	Method: POST 
+ Arguments: "{\"query\":{},\"body\":{\"login\":\"Best TheBest\",\"password\":\"dfdfd1g + bad\"}}"
+info: Dec-28-2021 11:34:20: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:34:25: 	Method: POST 
+ Arguments: "{\"query\":{},\"body\":{\"login\":\"Best TheBest\",\"password\":\"dfdfd1g + bad\"}}"
+info: Dec-28-2021 11:36:54: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:38:31: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:38:39: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:38:46: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 11:38:47: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 11:38:47: 	Method: undefined 
+ Arguments: undefined 
+ Error: undefined 
+ Stack: undefined
+info: Dec-28-2021 11:38:50: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 11:38:50: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 11:38:50: 	Method: undefined 
+ Arguments: undefined 
+ Error: undefined 
+ Stack: undefined
+info: Dec-28-2021 11:38:52: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 11:38:52: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 11:38:52: 	Method: undefined 
+ Arguments: undefined 
+ Error: undefined 
+ Stack: undefined
+info: Dec-28-2021 11:38:53: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 11:38:53: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 11:38:53: 	Method: undefined 
+ Arguments: undefined 
+ Error: undefined 
+ Stack: undefined
+info: Dec-28-2021 11:39:39: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:39:44: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 11:39:45: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 11:39:45: 	Method: undefined 
+ Arguments: undefined 
+ Error: undefined 
+ Stack: undefined
+info: Dec-28-2021 11:40:30: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:40:32: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 11:40:33: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 11:40:33: 	Method: undefined 
+ Arguments: undefined 
+ Error: undefined 
+ Stack: undefined
+info: Dec-28-2021 11:41:25: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:41:26: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 11:41:27: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 11:41:27: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 11:41:27: 	Method: undefined 
+ Arguments: undefined 
+ Error: undefined 
+ Stack: undefined
+info: Dec-28-2021 11:41:33: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 11:41:33: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 11:41:33: 	Method: undefined 
+ Arguments: undefined 
+ Error: undefined 
+ Stack: undefined
+info: Dec-28-2021 11:41:44: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:41:52: 	Method: POST 
+ Arguments: "{\"query\":{},\"body\":{\"login\":\"Best TheBest\",\"password\":\"dfdfd1g\"}}"
+info: Dec-28-2021 11:42:34: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:42:46: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:42:48: 	Method: POST 
+ Arguments: "{\"query\":{},\"body\":{\"login\":\"Best TheBest\",\"password\":\"dfdfd1g\"}}"
+info: Dec-28-2021 11:43:24: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:44:19: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:45:27: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:47:22: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:47:35: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:55:08: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:56:39: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:56:53: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:56:56: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:57:28: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:57:31: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 11:57:34: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 11:59:01: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:59:03: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 11:59:05: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 11:59:15: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 11:59:17: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 11:59:19: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 11:59:26: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 11:59:46: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:00:32: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:00:36: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 12:02:16: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:02:20: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 12:03:52: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:03:57: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 12:03:58: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 12:04:22: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:04:22: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 12:04:24: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 12:05:11: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:05:20: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:05:22: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 12:05:45: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:05:49: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:05:50: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 12:05:52: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 12:06:18: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:06:21: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 12:06:51: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:06:53: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 12:07:01: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:07:24: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 12:12:13: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:13:11: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:13:31: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:13:47: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:13:53: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 12:14:26: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:15:36: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:15:41: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:15:41: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:11:10
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 12:15:41: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:15:41: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:11:10
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 12:15:53: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:15:54: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:15:54: 	Method: GET 
+ Arguments: {} 
+ Error: Unauthorized Failed !token 
+ Stack: Error: Unauthorized Failed !token
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:10:10
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 12:15:54: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:15:54: 	Method: GET 
+ Arguments: {} 
+ Error: Unauthorized Failed !token 
+ Stack: Error: Unauthorized Failed !token
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:10:10
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 12:18:11: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:18:12: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:18:12: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:12:10
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 12:18:12: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:18:12: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:12:10
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 12:18:13: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:18:13: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:12:10
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 12:18:13: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:18:13: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:12:10
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 12:18:19: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:18:19: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:12:10
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 12:18:19: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:18:19: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:12:10
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 12:18:26: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:18:55: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:18:55: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:18:55: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:11:10
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 12:18:56: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:18:56: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:11:10
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 12:18:57: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:18:57: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:11:10
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 12:18:57: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:18:57: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:11:10
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 12:19:49: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:20:01: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:20:07: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:20:33: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:21:11: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:21:15: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:21:20: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:21:20: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 12:21:20: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:21:20: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 12:21:27: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:21:28: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:21:28: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 12:21:28: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:21:28: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 12:21:30: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:21:30: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 12:21:30: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:21:30: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 12:21:30: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:21:30: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 12:21:30: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:21:30: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 12:21:31: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:21:31: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 12:21:31: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:21:31: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 12:21:40: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:21:42: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 12:21:43: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 12:22:00: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:22:00: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 12:22:07: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:22:08: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:22:08: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 12:22:08: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:22:08: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 12:22:09: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:22:09: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 12:22:09: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:22:09: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 12:22:11: 	Method: POST 
+ Arguments: "{\"query\":{},\"body\":{\"login\":\"Best TheBest\",\"password\":\"dfdfd1g\"}}"
+error: Dec-28-2021 12:22:11: 	Method: POST 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 12:22:17: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:22:19: 	Method: POST 
+ Arguments: "{\"query\":{},\"body\":{\"login\":\"Best TheBest\",\"password\":\"dfdfd1g\"}}"
+error: Dec-28-2021 12:22:19: 	Method: POST 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 12:22:23: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 12:24:02: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:24:14: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:29:21: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:29:47: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:29:47: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 12:29:47: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:29:47: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 12:31:33: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:31:33: 	Method: GET 
+ Arguments: {} 
+ Error: Unauthorized Failed 
+ Stack: UnauthorizedError: Unauthorized Failed
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:13:21
+    at Object.module.exports [as verify] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/jsonwebtoken/verify.js:63:12)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:12:9
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+info: Dec-28-2021 12:33:43: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:33:56: 	Method: POST 
+ Arguments: "{\"query\":{},\"body\":{\"login\":\"Best TheBest\",\"password\":\"dfdfd1g\"}}"
+error: Dec-28-2021 12:33:56: 	Method: POST 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 12:36:26: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:36:31: 	Method: POST 
+ Arguments: "{\"query\":{},\"body\":{\"login\":\"Best TheBest\",\"password\":\"dfdfd1g\"}}"
+info: Dec-28-2021 12:36:57: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:36:57: 	Method: GET 
+ Arguments: {} 
+ Error: Unauthorized! Bad login/password combination! 
+ Stack: Error: Unauthorized! Bad login/password combination!
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/routers/authorize/checkAuth.ts:18:10
+    at Generator.throw (<anonymous>)
+    at rejected (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/routers/authorize/checkAuth.ts:6:65)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+info: Dec-28-2021 12:38:14: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:38:14: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:38:14: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 12:38:14: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:38:14: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 12:38:18: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:38:18: 	Method: GET 
+ Arguments: {} 
+ Error: Unauthorized Failed 
+ Stack: UnauthorizedError: Unauthorized Failed
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:13:21
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/jsonwebtoken/verify.js:152:16
+    at getSecret (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/jsonwebtoken/verify.js:90:14)
+    at Object.module.exports [as verify] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/jsonwebtoken/verify.js:94:10)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:12:9
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+info: Dec-28-2021 12:39:03: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:39:18: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:42:00: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 12:42:10: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 12:42:10: 	Method: GET 
+ Arguments: {} 
+ Error: Unauthorized Failed 
+ Stack: UnauthorizedError: Unauthorized Failed
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:13:21
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/jsonwebtoken/verify.js:152:16
+    at getSecret (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/jsonwebtoken/verify.js:90:14)
+    at Object.module.exports [as verify] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/jsonwebtoken/verify.js:94:10)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:12:9
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+info: Dec-28-2021 12:44:41: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 13:08:06: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 13:09:51: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 13:09:56: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 13:09:56: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 13:09:56: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 13:09:56: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 13:10:02: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 13:10:02: 	Method: GET 
+ Arguments: {} 
+ Error: Unauthorized Failed 
+ Stack: UnauthorizedError: Unauthorized Failed
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:13:21
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/jsonwebtoken/verify.js:152:16
+    at getSecret (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/jsonwebtoken/verify.js:90:14)
+    at Object.module.exports [as verify] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/jsonwebtoken/verify.js:94:10)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:12:9
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+info: Dec-28-2021 13:10:10: 	Method: POST 
+ Arguments: "{\"query\":{},\"body\":{\"login\":\"Best TheBest\",\"password\":\"dfdfd1g\"}}"
+error: Dec-28-2021 13:10:10: 	Method: POST 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 13:10:38: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 13:10:39: 	Method: POST 
+ Arguments: "{\"query\":{},\"body\":{\"login\":\"Best TheBest\",\"password\":\"dfdfd1g\"}}"
+error: Dec-28-2021 13:10:39: 	Method: POST 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 13:12:12: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 13:12:30: 	Method: POST 
+ Arguments: "{\"query\":{},\"body\":{\"login\":\"Best TheBest\",\"password\":\"dfdfd1g\"}}"
+error: Dec-28-2021 13:12:30: 	Method: POST 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 13:12:32: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 13:12:32: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 13:12:32: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 13:12:32: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 13:12:36: 	Method: POST 
+ Arguments: "{\"query\":{},\"body\":{\"login\":\"Best TheBest\",\"password\":\"dfdfd1g\"}}"
+error: Dec-28-2021 13:12:36: 	Method: POST 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 13:13:06: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 13:13:09: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 13:13:09: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 13:13:09: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 13:13:09: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 13:13:12: 	Method: POST 
+ Arguments: "{\"query\":{},\"body\":{\"login\":\"Best TheBest\",\"password\":\"dfdfd1g\"}}"
+error: Dec-28-2021 13:13:12: 	Method: POST 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 13:15:02: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 13:16:01: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 13:16:06: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 13:16:06: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 13:16:06: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 13:16:06: 	Method: GET 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 13:16:09: 	Method: POST 
+ Arguments: "{\"query\":{},\"body\":{\"login\":\"Best TheBest\",\"password\":\"dfdfd1g\"}}"
+error: Dec-28-2021 13:16:09: 	Method: POST 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 13:17:02: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 13:17:04: 	Method: POST 
+ Arguments: "{\"query\":{},\"body\":{\"login\":\"Best TheBest\",\"password\":\"dfdfd1g\"}}"
+error: Dec-28-2021 13:17:04: 	Method: POST 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 13:17:27: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 13:17:30: 	Method: POST 
+ Arguments: "{\"query\":{},\"body\":{\"login\":\"Best TheBest\",\"password\":\"dfdfd1g\"}}"
+error: Dec-28-2021 13:17:30: 	Method: POST 
+ Arguments: {} 
+ Error: UnauthorizedError 
+ Stack: UnauthorizedError: UnauthorizedError
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:12:20
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+    at Layer.handle [as handle_request] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:317:13)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/express/lib/router/index.js:335:12)
+info: Dec-28-2021 13:17:41: 	Method: POST 
+ Arguments: "{\"query\":{},\"body\":{\"login\":\"Best TheBest\",\"password\":\"dfdfd1g\"}}"
+info: Dec-28-2021 13:18:07: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+info: Dec-28-2021 13:18:26: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 13:18:35: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 13:18:41: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 13:19:20: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 13:19:35: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 13:19:47: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 13:23:18: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 13:23:18: 	Method: GET 
+ Arguments: {} 
+ Error: Unauthorized Failed 
+ Stack: UnauthorizedError: Unauthorized Failed
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:82
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/jsonwebtoken/verify.js:133:14
+    at getSecret (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/jsonwebtoken/verify.js:90:14)
+    at Object.module.exports [as verify] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/jsonwebtoken/verify.js:94:10)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:18
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:5:79)
+info: Dec-28-2021 13:31:22: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 13:31:51: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 13:31:57: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 16:04:57: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 16:04:57: 	Method: GET 
+ Arguments: {} 
+ Error: Unauthorized Failed 
+ Stack: UnauthorizedError: Unauthorized Failed
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:13:75
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/jsonwebtoken/verify.js:106:14
+    at getSecret (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/jsonwebtoken/verify.js:90:14)
+    at Object.module.exports [as verify] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/jsonwebtoken/verify.js:94:10)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:13:18
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:79)
+info: Dec-28-2021 16:05:04: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 16:05:04: 	Method: GET 
+ Arguments: {} 
+ Error: Unauthorized Failed 
+ Stack: UnauthorizedError: Unauthorized Failed
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:13:75
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/jsonwebtoken/verify.js:106:14
+    at getSecret (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/jsonwebtoken/verify.js:90:14)
+    at Object.module.exports [as verify] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/jsonwebtoken/verify.js:94:10)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:13:18
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:79)
+info: Dec-28-2021 16:05:13: 	Method: GET 
+ Arguments: "{\"query\":{},\"body\":{}}"
+error: Dec-28-2021 16:05:13: 	Method: GET 
+ Arguments: {} 
+ Error: Unauthorized Failed 
+ Stack: UnauthorizedError: Unauthorized Failed
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:13:75
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/jsonwebtoken/verify.js:106:14
+    at getSecret (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/jsonwebtoken/verify.js:90:14)
+    at Object.module.exports [as verify] (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/node_modules/jsonwebtoken/verify.js:94:10)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:13:18
+    at Generator.next (<anonymous>)
+    at /Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:4:12)
+    at checkAuthMd (/Users/Siarhei_Harnastaeu/node_gm/NodeJS-GMP2021Q3/src/middleware/checkAuthMd.ts:9:79)
+info: Dec-28-2021 16:15:09: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 16:15:43: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 16:16:26: 	Server started and running on http://localhost:3000
+info: Dec-28-2021 16:16:49: 	Server started and running on http://localhost:3000
+info: Dec-29-2021 09:14:55: 	Server started and running on http://localhost:3000
+info: Dec-29-2021 09:15:59: 	Server started and running on http://localhost:3000

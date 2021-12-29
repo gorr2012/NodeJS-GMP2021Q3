@@ -20,3 +20,17 @@ export class GroupNotFoundError extends CustomError {
     this.name = 'GroupNotFoundError';
   }
 }
+
+export class UnauthorizedError extends CustomError {
+  constructor() {
+    super(`UnauthorizedError`, 401);
+    this.name = 'UnauthorizedError';
+  }
+}
+
+export class ForbiddenError extends CustomError {
+  constructor() {
+    super('Unauthorized Failed', 403);
+    this.name = 'UnauthorizedError';
+  }
+}
