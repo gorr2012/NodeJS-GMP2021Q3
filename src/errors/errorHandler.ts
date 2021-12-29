@@ -1,8 +1,8 @@
-import { Response, Request } from 'express';
+import { Response, Request, NextFunction } from 'express';
 import { logger } from '../logger/logger';
 import { CustomError } from './errors';
 
-export const errorHandler = (err: Error, req: Request, res: Response) => {
+export const errorHandler = (err: Error, req: Request, res: Response, next: NextFunction) => {
   let statusCode: number;
   let message: string;
 
@@ -18,4 +18,5 @@ export const errorHandler = (err: Error, req: Request, res: Response) => {
     `Method: ${req.method} \n Arguments: ${JSON.stringify(req.query)} \n Error: ${err.message} \n Stack: ${err.stack}`
   );
   res.status(statusCode).send({ message });
+  next();
 };

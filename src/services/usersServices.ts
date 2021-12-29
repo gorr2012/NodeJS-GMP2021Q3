@@ -16,6 +16,14 @@ export const findUser = async (id: string) => {
   return user;
 };
 
+export const findUserByLogin = async (login: string) => {
+  const user = await User.findOne({ where: { login } });
+  if (!user) {
+    throw new Error();
+  }
+  return user;
+};
+
 export const add = async (user: IUser) => await User.create(user);
 
 export const update = async (id: string, dataToSave: Partial<Omit<IUser, 'id'>>) =>
