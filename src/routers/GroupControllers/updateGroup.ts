@@ -6,7 +6,9 @@ const updateGroup = async (req: Request, res: Response, next: NextFunction) => {
   const { body } = req;
   try {
     const groupToSave = await update(body.id, body);
-    return res.status(200).send(groupToSave);
+    console.log(groupToSave);
+
+    return res.status(200).json(`Group was successfully update with id ${(groupToSave as any).id}`);
   } catch (error) {
     next(new GroupNotFoundError(`${body.id}`));
   }
