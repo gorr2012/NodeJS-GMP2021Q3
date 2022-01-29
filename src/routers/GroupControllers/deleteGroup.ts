@@ -4,8 +4,8 @@ import { deleteHard } from '../../services/groupsServices';
 
 const deleteGroup = async (req: Request, res: Response, next: NextFunction) => {
   try {
-    await deleteHard(req.params.groupId);
-    return res.status(200).json('Group deleted');
+    const result = await deleteHard(req.params.groupId);
+    return res.status(200).json(`Group was successfully deleted with id ${result}`);
   } catch (error) {
     next(new GroupNotFoundError(`${req.params.groupId}`));
   }

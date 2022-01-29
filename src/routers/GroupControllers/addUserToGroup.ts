@@ -6,8 +6,8 @@ const addUserToGroup = async (req: Request, res: Response, next: NextFunction) =
   const { userIds } = req.body;
   if (!groupId && !userIds) return res.status(404).json();
   try {
-    const connection = await connectUserAndGroup(groupId, userIds);
-    return res.status(201).send(connection);
+    const idConnectedId = await connectUserAndGroup(groupId, userIds);
+    return res.status(201).json(`Group with id ${idConnectedId} was successfully connected with userIds ${userIds}`);
   } catch (error) {
     next(new Error(`Cannot found ${groupId} or ${userIds}`));
   }

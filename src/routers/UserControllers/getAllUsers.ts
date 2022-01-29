@@ -1,6 +1,5 @@
 import { getAllUsersNotDeleted, getAutoSuggestUsers } from '../../services/usersServices';
 import { Response, Request, NextFunction } from 'express';
-import { UserNotFoundError } from '../../errors/errors';
 
 const getAllUsers = async (req: Request, res: Response, next: NextFunction) => {
   const { loginSubstring, limit } = req.query;
@@ -8,9 +7,9 @@ const getAllUsers = async (req: Request, res: Response, next: NextFunction) => {
     const allUsers = loginSubstring
       ? await getAutoSuggestUsers(<string>loginSubstring, Number(limit))
       : await getAllUsersNotDeleted();
-    return res.status(200).send(allUsers);
+    return res.status(200).json(allUsers);
   } catch (error) {
-    next(new Error());
+    next(new Error(`${error}`));
   }
 };
 

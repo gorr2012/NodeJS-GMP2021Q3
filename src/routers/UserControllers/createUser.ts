@@ -6,10 +6,10 @@ import { NextFunction, Response } from 'express';
 
 const createUser = async (req: ValidatedRequest<IUserSchema>, res: Response, next: NextFunction) => {
   try {
-    await add({ id: uuid(), isDeleted: false, ...req.body });
-    return res.status(200).json(`User is created`);
+    const result = await add({ id: uuid(), isDeleted: false, ...req.body });
+    return res.status(200).json(`User ${req.body.login} successfully created with id ${result.id}`);
   } catch (error) {
-    next(new Error());
+    next(`Big fat error`);
   }
 };
 
